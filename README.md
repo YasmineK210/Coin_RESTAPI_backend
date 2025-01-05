@@ -17,6 +17,7 @@ But in case it doesn't work, please move the JUnit test file somewhere and copy 
 
 ## How to run locally
 1. Git clone this repository
-2. Run: `docker-compose build`
-3. Run: `docker-compose up`
-4. Server should be running on localhost 8080
+2. cd `Coin_RESTAPI_backend`
+3. Run: `docker-compose build`
+4. Run: `docker-compose up`
+5. Server should be running on localhost 8080
