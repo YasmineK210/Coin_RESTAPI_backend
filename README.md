@@ -16,8 +16,8 @@ You can just run `docker-compose build` and `docker-compose up` since it has bee
 But in case it doesn't work, please move the JUnit test file somewhere and copy back if you want to do unit testing!
 
 ## How to run locally
-1. Git clone this repository
-2. cd `Coin_RESTAPI_backend`
+1. Git clone this repository: `git clone https://github.com/YasmineK210/Coin_RESTAPI_backend.git`
+2. `cd Coin_RESTAPI_backend`
 3. Run: `docker-compose build`
 4. Run: `docker-compose up`
 5. Server should be running on localhost 8080
